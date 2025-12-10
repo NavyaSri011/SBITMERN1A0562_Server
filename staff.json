@@ -1,0 +1,37 @@
+[
+    {
+        "id": 201,
+        "name": "Dr. Anjali",
+        "Department": "CSE",
+        "Technology": "Python",
+        "Skills": ["Django", "Flask", "Data Analysis"]
+    },
+    {
+        "id": 202,
+        "name": "Dr. Ramesh",
+        "Department": "ECE",
+        "Technology": "Embedded Systems",
+        "Skills": ["Arduino", "Raspberry Pi", "IoT"]
+    },
+    {
+        "id": 203,
+        "name": "Dr. Kavya",
+        "Department": "IT",
+        "Technology": "Java",
+        "Skills": ["Spring Boot", "Hibernate", "Microservices"]
+    },
+    {
+        "id": 204,
+        "name": "Dr. Arvind",
+        "Department": "EEE",
+        "Technology": "Power Systems",
+        "Skills": ["MATLAB", "Simulink", "Control Systems"]
+    },
+    {
+        "id": 205,
+        "name": "Dr. Neha",
+        "Department": "Mechanical",
+        "Technology": "Robotics",
+        "Skills": ["Automation", "3D Printing", "CAD"]
+    }
+]

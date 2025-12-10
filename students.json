@@ -1,0 +1,10 @@
+[
+
+    {"id": 123, "name": "Mohan", "Branch": "CSE", "CGPA": 8.1},
+
+    {"id": 111, "name": "Lokesh", "Branch": "EEE", "CGPA": 9.2},
+
+    {"id": 789, "name": "Murali", "Branch": "CSD", "CGPA": 7.5},
+
+    {"id": 412, "name": "Gowtham", "Branch": "ECE", "CGPA": 8.9}
+]

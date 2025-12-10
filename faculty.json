@@ -1,0 +1,37 @@
+[
+    {
+        "id": 201,
+        "name": "Dr. Spoorthy",
+        "Department": "CSE",
+        "Technology": "Python",
+        "Skills": ["Basics", "OOP", "Pandas"]
+    },
+    {
+        "id": 202,
+        "name": "Dr. Supriya",
+        "Department": "ECE",
+        "Technology": "Embedded Systems",
+        "Skills": ["C Programming", "Arduino", "Sensors"]
+    },
+    {
+        "id": 203,
+        "name": "Mr. Naresh",
+        "Department": "IT",
+        "Technology": "Java",
+        "Skills": ["Core Java", "Collections", "JDBC"]
+    },
+    {
+        "id": 204,
+        "name": "Mr. Chiranjeevi",
+        "Department": "EEE",
+        "Technology": "Power Systems",
+        "Skills": ["Circuits", "Motors", "Transformers"]
+    },
+    {
+        "id": 205,
+        "name": "Dr. Raj Kumar",
+        "Department": "Mechanical",
+        "Technology": "Robotics",
+        "Skills": ["Sensors", "Motors", "Automation"]
+    }
+]

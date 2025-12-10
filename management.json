@@ -1,0 +1,37 @@
+[
+    {
+        "id": 301,
+        "name": "Mr. Rajesh",
+        "Role": "Principal",
+        "Department": "Administration",
+        "Skills": ["Leadership", "Decision Making", "Planning"]
+    },
+    {
+        "id": 302,
+        "name": "Mrs. Lakshmi",
+        "Role": "Vice Principal",
+        "Department": "Academics",
+        "Skills": ["Teaching", "Coordination", "Mentoring"]
+    },
+    {
+        "id": 303,
+        "name": "Mr. Suresh",
+        "Role": "Dean",
+        "Department": "Research",
+        "Skills": ["Guidance", "Teamwork", "Documentation"]
+    },
+    {
+        "id": 304,
+        "name": "Ms. Rekha",
+        "Role": "HOD",
+        "Department": "CSE",
+        "Skills": ["Scheduling", "Communication", "Problem Solving"]
+    },
+    {
+        "id": 305,
+        "name": "Mr. Ajay",
+        "Role": "Coordinator",
+        "Department": "Events",
+        "Skills": ["Organizing", "Time Management", "Team Handling"]
+    }
+]
