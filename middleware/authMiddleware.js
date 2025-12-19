@@ -17,7 +17,7 @@ exports.verifyToken = (req, res, next) => {
   }
 };
 
-// Role-based CRUD access control
+
 exports.roleCheck = (resource) => {
   return (req, res, next) => {
     const role = req.user?.role;
